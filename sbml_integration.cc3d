@@ -1,0 +1,6 @@
+<Simulation version="3.6.2">
+   <XMLScript Type="XMLScript">Simulation/sbml_integration.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/sbml_integration.py</PythonScript>
+   <Resource Type="Python">Simulation/sbml_integrationSteppables.py</Resource>
+   <Resource Type="sbml">Simulation/BIOMD0000000195_url.xml</Resource>
+</Simulation>
